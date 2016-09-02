@@ -2,5 +2,4 @@
 
 
 ## Reading Assignments
-
-  They start here
+  
