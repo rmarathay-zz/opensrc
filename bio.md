@@ -8,4 +8,4 @@
 ### slack handle: rmarathay
 
 
-![Ranjit](/IMG_1225.JPG)
+![Ranjit](images/ranjit.png)
