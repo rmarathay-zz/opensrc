@@ -1,2 +1,0 @@
-# opensrc
-hi
