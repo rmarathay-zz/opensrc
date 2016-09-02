@@ -1,9 +1,9 @@
 
-Name : Ranjit Marathay
+## Name : Ranjit Marathay
 
-email: maratr@rpi.edu
+### email: maratr@rpi.edu
 
-github account: rmarathay
+### github account: rmarathay
 
-slack handle: rmarathay
+### slack handle: rmarathay
 
