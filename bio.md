@@ -7,4 +7,4 @@
 
 ### slack handle: rmarathay
 
-[[https://github.com/rmarathay/opensrc/IMG_1225.JPG|alt=Ranjit]]
+(IMG_1225.JPG)
