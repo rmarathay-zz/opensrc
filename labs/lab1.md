@@ -2,6 +2,12 @@
 
 
 ## Reading Assignments
+
+
+
+## Linux 
+
+![aptTree](/images/lab1-images/ubuntu.png)
   
 ## Regex
 ![1Regex](/images/lab1-images/ex1.png)
@@ -13,6 +19,9 @@
 ![7Regex](/images/lab1-images/ex6.png)
 ![8Regex](/images/lab1-images/ex7.png)
 
-## Linux 
 
-![aptTree](/images/lab1-images/ubuntu.png)
+## Snap
+
+
+## Reflection
+
