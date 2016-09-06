@@ -4,7 +4,7 @@
 ## Reading Assignments
   
 ## Regex
-![1Regex](images/lab1-images/ex1.png)
+![1Regex](/images/lab1-images/ex1.png)
 ![2Regex](images/lab1-images/Screen Shot 2016-09-02 at 1.29.27 PM.png)
 ![3Regex](images/lab1-images/Screen Shot 2016-09-02 at 1.29.36 PM.png)
 ![4Regex](images/lab1-images/Screen Shot 2016-09-02 at 1.30.55 PM.png)
