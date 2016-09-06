@@ -12,4 +12,3 @@
 ![6Regex](/images/lab1-images/ex5.png)
 ![7Regex](/images/lab1-images/ex6.png)
 ![8Regex](/images/lab1-images/ex7.png)
-![9Regex](/images/lab1-images/ex8.png)
