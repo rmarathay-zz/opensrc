@@ -34,6 +34,11 @@ All of the Terms of Service that we skip over when using a service or piece of s
 ![8Tutorial](/images/lab1-images/tutorial8.png)
 ![9Tutorial](/images/lab1-images/tutorial9.png)
 
+![1Regex](/images/lab1-images/regex1.png)
+![2Regex](/images/lab1-images/regex2.png)
+![3Regex](/images/lab1-images/regex3.png)
+![5Regex](/images/lab1-images/regex5.png)
+
 
 ## Blocky
 
