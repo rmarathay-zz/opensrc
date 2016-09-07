@@ -7,6 +7,8 @@
 
 2) I would also avoid asking general questions, although that is a learning mechanism I employ it is hard for members of the StackOverflow community and other help forums to answer your problem.
 
+Free Culture Paragraph:
+All of the Terms of Service that we skip over when using a service or piece of software should be reviewed. Although Jesse did not make any money off his tinkering and presumably had no malicious intentions, large corporations and organizations look at everything not matter how small as a threat to their bottom line. Technology has gotten to the point where an individual armed with the correct information and knowledge can seriously damage establishment. This is scary especially to large companies that have issues scaling security and policies. Jesse's actions landed him in a lawsuit because of technicalities in legalese, I am now convinced that understanding the scope of your project, what it specifically affects and how you are going about affecting it all need to be taken into account. It is very important that you pay attention to licenses for software and intellectual property because they have larger consequences then most developers realize. 
 
 ## Linux 
 
