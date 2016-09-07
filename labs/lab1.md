@@ -40,3 +40,4 @@ All of the Terms of Service that we skip over when using a service or piece of s
 
 ## Reflection
 
+I really like Natural Language Processing, iOS development and web development. I am thinking of combining the three and maybe even add a geolocation aspect to it. I want to try and build a framework for iOS that I can use in a later project of might because I have a few ideas that I want to implement, but I think will just build the framework for a later project. I am pretty well versed in Swift and I can easily pick up Objective-C if needed.
