@@ -3,7 +3,7 @@
 
 ## Reading Assignments
 
-1) I would ask very specific questions related to very specific bugs in your code. 
+1) I would ask very specific questions related to very specific bugs in your code.\n
 2) I would also avoid asking general questions, although that is a learning mechanism I employ it is hard for members of the StackOverflow community and other help forums to answer your problem.
 
 
