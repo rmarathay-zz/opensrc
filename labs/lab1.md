@@ -37,7 +37,7 @@ All of the Terms of Service that we skip over when using a service or piece of s
 
 ## Blocky
 
-![BlockyMaze](/image/lab1-images/blocky.png)
+![BlockyMaze](/images/lab1-images/blocky.png)
 
 
 ## Reflection
