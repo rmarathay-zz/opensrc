@@ -19,6 +19,13 @@
 ![7Regex](/images/lab1-images/ex6.png)
 ![8Regex](/images/lab1-images/ex7.png)
 
+![1Tutorial](/images/lab1-images/tutorial1.png)
+![1Tutorial](/images/lab1-images/tutorial1.png)
+![1Tutorial](/images/lab1-images/tutorial1.png)
+![1Tutorial](/images/lab1-images/tutorial1.png)
+![1Tutorial](/images/lab1-images/tutorial1.png)
+
+
 
 ## Snap
 
