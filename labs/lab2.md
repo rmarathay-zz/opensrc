@@ -42,12 +42,11 @@ The customers for my swift-geo software will be developers that are using native
 
 ### 10
 
-Take 5 projects from Observatory or past RCOS Projects - create a table which project has which license. for example:
-
 Website | License Present | License
 ---------|:----------|:-------
 https://github.com/wtg/shuttle_tracking_2 | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
 https://github.com/rpiml/okcollege-web-client | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
-https://github.com/FullScreenShenanigans/FullScreenPokemon | YES | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/FullScreenShenanigans/FullScreenPokemon | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/polaritech/slick | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
 
 
