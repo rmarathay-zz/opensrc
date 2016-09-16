@@ -46,5 +46,8 @@ Take 5 projects from Observatory or past RCOS Projects - create a table which pr
 
 Website | License Present | License
 ---------|:----------|:-------
-https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
+https://github.com/wtg/shuttle_tracking_2 | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/rpiml/okcollege-web-client | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/FullScreenShenanigans/FullScreenPokemon | YES | MIT License https://en.wikipedia.org/wiki/MIT_License
+
 
