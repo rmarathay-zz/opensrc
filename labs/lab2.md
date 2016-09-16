@@ -20,6 +20,16 @@ My project will be a Swift framework for location based purchases and user data 
 
 Read these licenses GPL, LGPL and Apache/BSD and discuss which one will be better - for a developer, for a company and for the common good - write 5 to 10 sentences. You may use tldrlegal
 
+Developer: MIT License
+  The MIT License protects the original creator and makes users of the software include a copyright as well as a license to their work. Developers can augment this license to their liking but in its very core it allows people to use their software but requires that the developer gets credit for their work.
+
+Company: Apache License 2.0 (Apache-2.0)
+  The Apache License 2.0 makes users of the software document any changes as well as includes a copyright and a license to the organization's or individual's work. The documentation of changes to the software is important because it allows the organization to keep track of a feed of all the changes and can at anytime make changes to their original code base.
+
+Common Good: GNU General Public License v3 (GPL-3)
+  The General Public License v3 is the perfect license for the common good because it allows users of the software to modify and distrubute the software but also requires any changes of the software to be documented. The documentation requirement makes it useful to the general public so that future users can not only see what the software evolved from but also track the changes that users contribute to the code base.
+  
+
 ### 8
 
 Link to repo : https://github.com/rmarathay/swift-geo
