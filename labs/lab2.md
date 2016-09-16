@@ -18,8 +18,6 @@ My project will be a Swift framework for location based purchases and user data 
 
 ### 7
 
-Read these licenses GPL, LGPL and Apache/BSD and discuss which one will be better - for a developer, for a company and for the common good - write 5 to 10 sentences. You may use tldrlegal
-
 Developer: MIT License
   The MIT License protects the original creator and makes users of the software include a copyright as well as a license to their work. Developers can augment this license to their liking but in its very core it allows people to use their software but requires that the developer gets credit for their work.
 
@@ -38,9 +36,15 @@ Link to repo : https://github.com/rmarathay/swift-geo
 
 Write five sentences about choosing a project to work in this course and who will be users/customers and what license will you choose.
 
+The customers for my swift-geo software will be developers that are using native iOS frameworks to build their own applications. The framework will allow developers to quickly get location data of merchants and potential users that use their application with this framework. It will also record Apple Pay transactions along with other statistics and data that might be useful to iOS application developers. I will choose the Apache License 2.0 for this project to protect my intellectual property as well as give access to this software for other to use.
+
+
+
 ### 10
 
 Take 5 projects from Observatory or past RCOS Projects - create a table which project has which license. for example:
 
-
+Website | License Present | License
+---------|:----------|:-------
+https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
 
