@@ -48,5 +48,6 @@ https://github.com/wtg/shuttle_tracking_2 | Yes | MIT License https://en.wikiped
 https://github.com/rpiml/okcollege-web-client | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
 https://github.com/FullScreenShenanigans/FullScreenPokemon | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
 https://github.com/polaritech/slick | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/JoeIaquinto/drops | Yes | https://en.wikipedia.org/wiki/Apache_License
 
 
