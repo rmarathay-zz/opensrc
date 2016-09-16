@@ -14,5 +14,23 @@ I do agree with this claim because hyperlinks and user interface is typically wh
 Microsoft .NET Core uses the MIT license because it lets users do pretty much anything with the library as long as there is some reference to the original creator, who in turn cannot be held liable for any issues resulting from using that software.
 
 ### 6
+My project will be a Swift framework for location based purchases and user data collection having to do with payments and location. I'm going to pick the Apache License 2.0
+
+### 7
+
+Read these licenses GPL, LGPL and Apache/BSD and discuss which one will be better - for a developer, for a company and for the common good - write 5 to 10 sentences. You may use tldrlegal
+
+### 8
+
+Link to repo : https://github.com/rmarathay/swift-geo
+
+### 9
+
+Write five sentences about choosing a project to work in this course and who will be users/customers and what license will you choose.
+
+### 10
+
+Take 5 projects from Observatory or past RCOS Projects - create a table which project has which license. for example:
+
 
 
