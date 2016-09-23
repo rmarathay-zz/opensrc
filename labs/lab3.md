@@ -2,6 +2,8 @@
 
 https://github.com/rmarathay/lab3part1
 
+https://github.com/rmarathay/courseproject/blob/master/References.md
+
 
 
 ![gitMerge1](/images/lab3-images/lab3-1.png)
