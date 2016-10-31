@@ -23,7 +23,7 @@ References
 #    Pieter Swart <swart@lanl.gov>
 #    All rights reserved.
 #    BSD license.
-
+from itertools import permutations
 import networkx as nx
 
 #-------------------------------------------------------------------
@@ -34,11 +34,13 @@ def generate_graph(words):
     G = nx.Graph(name="words")
     lookup = dict((c,lowercase.index(c)) for c in lowercase)
     def edit_distance_one(word):
-        for i in range(len(word)):
-            left, c, right = word[0:i], word[i], word[i+1:]
-            j = lookup[c] # lowercase.index(c)
-            for cc in lowercase[j+1:]:
-                yield left + cc + right
+        perm_list = [''.join(p) for p in permutations(word)]
+        for p in perm_list:
+            for i in range(len(word)):
+                left, c, right = p[0:i], p[i], p[i+1:]
+                j = lookup[c] # lowercase.index(c)
+                for cc in lowercase[j+1:]:
+                    yield left + cc + right
     candgen = ((word, cand) for word in sorted(words)
                for cand in edit_distance_one(word) if cand in words)
     G.add_nodes_from(words)
