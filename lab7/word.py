@@ -49,7 +49,6 @@ def generate_graph(words):
     return G
 
 def words_graph():
-    """Return the words example graph from the Stanford GraphBase"""
     import gzip
     fh=gzip.open('words_dat.txt.gz','r')
     words=set()
