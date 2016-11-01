@@ -86,3 +86,8 @@ if __name__ == '__main__':
             print("None")
 
 ```
+
+
+### Terminal Output 
+
+![output](/images/lab7-images/output.png)
