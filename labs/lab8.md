@@ -2,9 +2,7 @@
 
 
 ### Lab 8 R-Studio Code 
-'''
-
-library(arules)
+'''library(arules)
 library(arulesViz)
 
 setwd("/Users/ranyeezus/Dropbox/2016JS1/opensrc/lab8")
@@ -30,9 +28,4 @@ plot(rules.sorted)
 plot(rules, shading="order", control = list(main = "Two-key plot",
                                             col=rainbow(max(size(rules))-1L)))
 plot(rules, method="matrix", measure=c("lift", "confidence"))
-
-
-
-
-
 '''
