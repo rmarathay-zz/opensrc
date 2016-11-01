@@ -34,6 +34,6 @@ plot(rules, method="matrix", measure=c("lift", "confidence"))
 ### Lab 8 R-Studio Visualizations
 
 
-![visualization1][]
-![visualization2][]
-![visualization3][]
+![visualization1][/images/lab8-images/)]
+![visualization2][/images/lab8-images/)]
+![visualization3][/images/lab8-images/)]
