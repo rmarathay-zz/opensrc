@@ -29,3 +29,11 @@ plot(rules, shading="order", control = list(main = "Two-key plot",
                                             col=rainbow(max(size(rules))-1L)))
 plot(rules, method="matrix", measure=c("lift", "confidence"))
 ```
+
+
+### Lab 8 R-Studio Visualizations
+
+
+![visualization1][]
+![visualization2][]
+![visualization3][]
