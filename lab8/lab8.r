@@ -14,9 +14,11 @@ admissions[,col_names] <- lapply(admissions[,col_names] , factor)
 str(admissions)
 
 rules <- apriori(admissions,  parameter = list(minlen=2, supp=0.01, conf=0.02),
-                 appearance = list(rhs=c("admit=1"), 
+                 appearance = list(rhs=c("admit=0"), 
                                    default="lhs"),
                  control = list(verbose=F))
+
+
 rules.sorted <- sort(rules, by="lift")
 inspect(rules.sorted)
 
