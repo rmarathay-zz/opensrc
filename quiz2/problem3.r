@@ -1,0 +1,5 @@
+#e1<-sample(0:1,size = 100,replace = TRUE, prob=c(0.2,0.8))
+d1<-sample(c(1:6),size = 100, replace=T, prob=c(0.3,0.1,0.1,0.1,0.1,0.3))
+sum(e1==0)
+#hist(e1,breaks=c(-0.5,0.5,1.5),prob = T)
+hist(d1,breaks=c(0.5,1.5,2.5,3.5,4.5,5.5,6.5),prob = T)

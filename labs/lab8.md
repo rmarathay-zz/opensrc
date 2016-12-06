@@ -37,3 +37,8 @@ plot(rules, method="matrix", measure=c("lift", "confidence"))
 ![visualization1](/images/lab8-images/v1.png)
 ![visualization2](/images/lab8-images/v2.png)
 ![visualization3](/images/lab8-images/v3.png)
+
+
+## Project Update
+
+I looked up how to build an iOS framework and looked at the PayKit iOS framework from Apple's Developer website. I created a Github Repo and a Slack Channel. I am going to make a blog post later this week.
