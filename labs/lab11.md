@@ -11,13 +11,13 @@ When people actually participated in the conversation there was almost no struct
 
 The TitanPad web application seems to be a less relevant Facebook Messenger
 
-### Describe the difference between synchronous and asynchronous communication.
+#### Describe the difference between synchronous and asynchronous communication.
 
-### Compare the HCI issues in individual interaction with group interaction.
+#### Compare the HCI issues in individual interaction with group interaction.
 
-### Discuss several issues of social concern raised by collaborative software.
+#### Discuss several issues of social concern raised by collaborative software.
 
-### Discuss the HCI issues in software that embodies human intention.
+#### Discuss the HCI issues in software that embodies human intention.
 
 ## Part 3
 
